@@ -1,2 +1,2 @@
 # my-portfolio
-My first portfolio yay!
+My first repository yay!
