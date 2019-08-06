@@ -1,2 +1,2 @@
-# my-portfolio
-My first repository yay!
+# CAS-project
+Thrift Website
